@@ -1,0 +1,3 @@
+Test Accuracy: 96.72%
+Final Validation Accuracy: 96.11%
+Final Training Accuracy: 93.91%

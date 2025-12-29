@@ -1,0 +1,2 @@
+CNN Model Accuracy: 99.57%
+Total test predictions: 10000
