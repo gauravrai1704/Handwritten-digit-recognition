@@ -1,0 +1,13 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Data & Models
+data/
+*.h5
+*.pth
+*.pkl
+
+# OS files
+.DS_Store
