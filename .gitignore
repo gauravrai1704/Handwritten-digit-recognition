@@ -8,6 +8,13 @@ data/
 *.h5
 *.pth
 *.pkl
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+results/
 
 # OS files
 .DS_Store
