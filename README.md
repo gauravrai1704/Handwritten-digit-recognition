@@ -21,9 +21,3 @@ The project uses the MNIST dataset from Kaggle:
 - Hidden layer 2: 64 neurons, ReLU activation
 - Output layer: 10 neurons, Softmax activation
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd handwritten-digit-recognition
